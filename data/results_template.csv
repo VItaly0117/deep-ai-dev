@@ -1,0 +1,2 @@
+date,track,domain,topic,model,mode,prompt_version,doc_name,chat_link,submission_time,final_score,ai_score,quality_score,topic_relevance_score,structure_score,section_match_score,char_count,notes,next_action
+2026-05-15,generation,Аддитивные технологии,"Причины появления микротрещин в металлических деталях, изготовленных методом 3D-печати",DeepSeek,Expert,prompt-1,,,,,,,,,,,,
